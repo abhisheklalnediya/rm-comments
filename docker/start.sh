@@ -11,4 +11,4 @@ npm install
 npm run build && mv build ../docker/fe-build
 
 cd $BASEDIR
-docker-compose up --build
+docker-compose up --build -d
