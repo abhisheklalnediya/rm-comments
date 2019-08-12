@@ -10,11 +10,12 @@ git clone --recurse-submodules  https://github.com/abhisheklalnediya/rm-comments
 2. Install prerequisites, npm, docker and docker compose
 
 
-3. run script start.sh
+3. run script `start.sh` residing inside docker directory
 ```
 cd rm-comments/docker
 ./start.sh
 ```
+* some times you have to run `start.sh` using as a super user using `sudo`
 
 ### Whats in it?
 
