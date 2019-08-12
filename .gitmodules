@@ -1,0 +1,6 @@
+[submodule "rm-comments-client"]
+	path = rm-comments-client
+	url = https://github.com/abhisheklalnediya/rm-comments-client.git
+[submodule "rm-comments-server"]
+	path = rm-comments-server
+	url = https://github.com/abhisheklalnediya/rm-comments-server.git
